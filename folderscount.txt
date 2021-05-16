@@ -1,0 +1,5 @@
+txt : 1
+yaml : 1
+md : 4
+toml : 1
+html : 7

@@ -24,7 +24,7 @@ for i in files:
         count[types.index(type)] += 1
 
 # Write to the folderscount file
-with open('folderscount.txt', 'a') as f:
+with open('filescount.txt', 'a') as f:
     for i in range(len(types)):
         a = f"{types[i]} : {count[i]}\n"
         f.write(a)
