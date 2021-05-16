@@ -15,4 +15,8 @@ bash finder.sh
 
 5. After the program ends check *folderscount.txt* for the count of different files available.
 
-####Author: *Codizt*
+Output Sample:
+! [Files counter output](FileCounterScreenshot.png)
+
+
+#### Author: _Codizt_
