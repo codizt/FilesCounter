@@ -1,6 +1,6 @@
 #Erase previous folder for fresh start
-rm folderscount.txt
-touch folderscount.txt
+rm filescount.txt
+touch filescount.txt
 rm folders.txt
 touch folders.txt
 
